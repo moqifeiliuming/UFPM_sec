@@ -1,0 +1,8 @@
+
+cityscapesscripts
+imagecorruptions
+scipy
+sklearn
+albumentations>=0.3.2
+mmlvis
+
